@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayman Khan
 - 📚 Student at Singapore University of Technology and Design (Batch of 2025)
-- 👀 I’m interested in Machine Learning, Design and Computer Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Robotics, IOT and Artificial Intelligence
+- 🌱 I’m currently learning Python and ROS
 - 💞️ I’m looking to collaborate on any intermediate project
 - 📫 How to reach me: www.twitter.com/CodeWithAyman
 
