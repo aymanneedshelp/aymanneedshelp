@@ -2,7 +2,7 @@
 - 📚 Student at Singapore University of Technology and Design (Batch of 2025)
 - 👀 I’m interested in Robotics, IOT and Artificial Intelligence
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on any intermediate project
+- 💞️ I’m looking to learn about and collaborate on an AR / VR project!
 - 📫 How to reach me: www.createwithayman.com (not live yet)
 
 <!---
