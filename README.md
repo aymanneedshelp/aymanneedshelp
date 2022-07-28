@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ayman Khan
 - 📚 Student at Singapore University of Technology and Design (Batch of 2025)
 - 👀 I’m interested in Robotics, IOT and Artificial Intelligence
-- 🌱 I’m currently learning Python and ROS
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on any intermediate project
-- 📫 How to reach me: www.twitter.com/CodeWithAyman
+- 📫 How to reach me: www.createwithayman.com (not live yet)
 
 <!---
 aymanneedshelp/aymanneedshelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
