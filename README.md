@@ -3,7 +3,7 @@
 - 👀 I’m interested in Robotics, IOT and Artificial Intelligence
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to learn about and collaborate on an AR / VR project!
-- 📫 How to reach me: www.createwithayman.com (not live yet)
+- 📫 How to reach me: https://ayman02khan.wixsite.com/ayman-khan (not live yet)
 
 <!---
 aymanneedshelp/aymanneedshelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
